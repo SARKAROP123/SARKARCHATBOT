@@ -1,5 +1,5 @@
-#Don't remove This Line From Here. @Itzvenomo | @Itzvenomo
-#Github :- @Itzvenomo
+#Don't remove This Line From Here. @lll_SARKAR_lll | @lll_SARKAR_lll
+#Github :- @lll_SARKAR_lll
 import requests
 import random
 import os
@@ -300,7 +300,7 @@ async def restart(client, m: Message):
             text = random.choice(EMOJIOS),
         )
         await asyncio.sleep(1.3)
-        await accha.edit("__ᴅιиg ᴅσиg ꨄ︎ ѕтαятιиg..__")
+        await accha.edit("𝐒𝐓𝐀𝐑𝐓𝐈𝐍𝐆 𝐁𝐀𝐁𝐘 𝐉𝐎𝐈𝐍https://t.me/TKS_CHAT_OFFICIAL..__")
         await asyncio.sleep(0.2)
         await accha.edit("__ᴅιиg ᴅσиg ꨄ sтαятιиg.....__")
         await asyncio.sleep(0.2)
